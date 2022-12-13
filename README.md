@@ -3,4 +3,4 @@
 ## Supports de cours
 Supports du cours et ressources pour la formation, y compris les notes de cours, les points saillants, les exercices et activités, et les quiz.
 
-- Voir le répertoire `notes` pour les notes de cours
+- Voir le répertoire `notes-de-cours` pour les notes de cours
