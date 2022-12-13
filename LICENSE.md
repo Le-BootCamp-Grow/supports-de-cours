@@ -2,7 +2,7 @@
 
 ## Creative Commons Attribution Share Alike 4.0 International
 
-> Licence content obtained from [Choose an open source licence] (https://choosealicense.com/licenses/cc-by-sa-4.0/#)
+> Licence content obtained from [Choose an open source licence](https://choosealicense.com/licenses/cc-by-sa-4.0/#)
 
 ```
 Attribution-ShareAlike 4.0 International
