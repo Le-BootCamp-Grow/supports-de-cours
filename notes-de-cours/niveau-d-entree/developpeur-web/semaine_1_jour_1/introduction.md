@@ -10,4 +10,4 @@ HTML5 est la dernière version de HTML, et il introduit de nouveaux éléments e
 
 Dans cette leçon, nous allons apprendre les balises HTML de base et comment les utiliser pour structurer et mettre en forme le contenu d'une page Web.
 
-[Suivant >>]()
+[Passez à l'unité suivante >>]()
