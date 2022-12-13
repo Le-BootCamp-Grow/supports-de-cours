@@ -97,8 +97,9 @@
     b) `<!DOCTYPE>, <head>, <title>, <body>, <html>`
 
     c) `<html>, <!DOCTYPE>, <title>, <head>, <body>`
-    
+
     d) `<html>, <body>, <title>, <head>, <!DOCTYPE>`
+
 
 
 > ### Astuces
