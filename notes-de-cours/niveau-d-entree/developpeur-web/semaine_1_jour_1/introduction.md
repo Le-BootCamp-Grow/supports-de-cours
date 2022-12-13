@@ -9,3 +9,5 @@ HTML5 est la dernière version de HTML, et il introduit de nouveaux éléments e
 - De nouveaux contrôles de formulaire, tels que `<datalist>` et `<output>`, pour améliorer l'expérience de l'utilisateur lorsqu'il remplit des formulaires.
 
 Dans cette leçon, nous allons apprendre les balises HTML de base et comment les utiliser pour structurer et mettre en forme le contenu d'une page Web.
+
+[Suivant >>]()
