@@ -25,4 +25,4 @@ Une fois que vous avez créé la page web, vous pouvez la tester en l'ouvrant da
 > - Vous pouvez utiliser les outils de développement du navigateur Web pour afficher et déboguer le code HTML de votre page Web. Ne vous inquiétez pas si vous ne savez pas encore comment le faire. Nous aborderons ce sujet dans un avenir proche.
 > - Bonne chance et amusez-vous bien en créant votre page Web !
 
-[Suivant : Exercez vous ! >>]()
+[Suivant : Activité du jours ! >>]()
