@@ -2,10 +2,10 @@
 
 1.  Que signifie l'acronyme HTML ?
 
-        a) Hypertext Markup Language
-        b) Hyperlink Text Markup Language
-        c) Hypermedia Text Markup Language
-        d) Hypertext Media Language
+>    a) Hypertext Markup Language
+>    b) Hyperlink Text Markup Language
+>    c) Hypermedia Text Markup Language
+>    d) Hypertext Media Language
 
 2.  Quelle est la dernière version du langage HTML ?
 
