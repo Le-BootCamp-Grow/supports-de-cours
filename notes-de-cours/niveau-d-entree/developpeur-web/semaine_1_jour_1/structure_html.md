@@ -55,4 +55,4 @@ L'élément `<body>` contient le contenu de la page Web, tel que du texte, des i
 </html>
 ```
 
-[Passez à l'unité suivante >>](https://github.com/Le-BootCamp-Grow/supports-de-cours/blob/8b2d39d4f918c55896f911133f9d07daf3d5b152/notes-de-cours/niveau-d-entree/developpeur-web/semaine_1_jour_1/elements_de_base.md)
+[Passez à l'unité suivante >>](https://github.com/Le-BootCamp-Grow/supports-de-cours/blob/1c1713282304fe115936ff0d8fd094fd72f2bd71/notes-de-cours/niveau-d-entree/developpeur-web/semaine_1_jour_1/elements_de_base.md)
