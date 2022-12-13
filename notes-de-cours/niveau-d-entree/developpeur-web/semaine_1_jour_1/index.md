@@ -15,4 +15,4 @@ NB : Cette leçon est subdivisée en plusieurs unités. Nous avons voulu que vou
 
 Amusez-vous bien en le parcourant !
 
-[Commençons !](/supports-de-cours/notes-de-cours/niveau-d-entree/developpeur-web/semaine_1_jour_1/introduction.md)
+[Commençons !](notes-de-cours/niveau-d-entree/developpeur-web/semaine_1_jour_1/introduction.md)
