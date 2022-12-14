@@ -9,6 +9,7 @@ Dans le fichier HTML, ajoutez la structure HTML de base suivante :
 ![HTML CSS structure declaration class](exercise0102_1.png)
 
 > Astuce : Voici le texte que nous avons utilisé pour le paragraphe `<p>` ci-dessous. Vous pouvez le copier. Ou vous pouvez utiliser un autre texte, ce qui nous ferait également plaisir.
+
 > Je suis développeur full-stack avec plus de 5 ans d'expérience, j'ai une passion pour la construction d'applications web intuitives et conviviales. Avec une formation en informatique et un solide ensemble de compétences dans des technologies comme JavaScript, React et Node.js, je suis toujours à la recherche de nouveaux défis et d'opportunités pour évoluer en tant que développeur. Dans mes rôles précédents, j'ai travaillé sur une variété de projets, des plateformes de commerce électronique à grande échelle aux outils internes à petite échelle, et j'ai toujours fourni des solutions de haute qualité et fiables. Pendant mon temps libre, j'aime me tenir au courant des dernières tendances du secteur et explorer de nouvelles technologies.
 
 Ajoutez un lien vers une feuille de style externe dans la section `<head>` du fichier HTML. Cette feuille de style sera utilisée pour appliquer des styles CSS aux éléments de la page.
