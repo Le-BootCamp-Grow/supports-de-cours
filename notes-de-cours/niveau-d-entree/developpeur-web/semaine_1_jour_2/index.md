@@ -7,6 +7,8 @@
 
 ## Jour 2 : Concepts et styles de base en CSS
 
+![HTML CSS stylesheet syntax class](css_style_screenshot.png)
+
 Salut à tous!
 
 Dans cette leçon, nous allons apprendre à connaître quelques concepts fondamentaux et styles de base en CSS. CSS (Cascading Style Sheets) est un langage de feuille de style utilisé pour décrire l'aspect et le formatage d'un document écrit dans un langage de balisage. C'est un langage de portée et il dispose d'une vaste gamme de fonctionnalités.

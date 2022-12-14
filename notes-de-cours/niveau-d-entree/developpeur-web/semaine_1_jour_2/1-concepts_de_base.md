@@ -4,6 +4,8 @@
 
 CSS (Cascading Style Sheets) est un langage de feuille de style utilisé pour décrire l'apparence et le formatage d'un document écrit dans un langage de balisage. Le CSS est utilisé pour contrôler la présentation des éléments d'une page Web, notamment les couleurs, les polices, la mise en page et d'autres styles.
 
+![HTML CSS stylesheet syntax class](css.png)
+
 CSS est un langage déclaratif, ce qui signifie qu'il utilise des déclarations pour spécifier les règles et les styles qui doivent être appliqués à un document. Ces déclarations sont appelées "règles" ou "déclarations". Les règles CSS se composent de deux parties : un sélecteur et un bloc de déclaration. Le sélecteur spécifie le ou les éléments de la page auxquels la règle doit s'appliquer, et le bloc de déclaration contient les styles qui doivent être appliqués aux éléments sélectionnés.
 
 Voici un exemple de règle CSS simple :
