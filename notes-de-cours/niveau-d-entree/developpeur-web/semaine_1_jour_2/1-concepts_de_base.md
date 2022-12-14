@@ -29,4 +29,4 @@ Il est en général recommandé d'utiliser des feuilles de style externes pour l
 
 C'est tout pour les concepts de base de CSS. Dans la prochaine leçcon, nous aborderons les différentes façons d'appliquer des styles aux éléments d'une page Web.
 
-[Passez à la leçcon suivante >>]()
+[Passez à la leçcon suivante >>](https://github.com/Le-BootCamp-Grow/supports-de-cours/blob/main/notes-de-cours/niveau-d-entree/developpeur-web/semaine_1_jour_2/2_styles_css.md)

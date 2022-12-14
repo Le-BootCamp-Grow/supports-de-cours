@@ -29,4 +29,4 @@ NB : Cette leçon est subdivisée en plusieurs unités. Nous avons voulu que vou
 
 Amusez-vous bien en le parcourant !
 
-[Commençons !]()
+[Commençons !](https://github.com/Le-BootCamp-Grow/supports-de-cours/blob/main/notes-de-cours/niveau-d-entree/developpeur-web/semaine_1_jour_2/1-concepts_de_base.md)

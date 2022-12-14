@@ -59,4 +59,4 @@ Maintenant, mettons tout cela ensemble et essayons de créer quelque chose de co
 </html>
 ```
 
-[Suivant : Exercez vous ! >>]()
+[Suivant : Exercez vous ! >>](https://github.com/Le-BootCamp-Grow/supports-de-cours/blob/main/notes-de-cours/niveau-d-entree/developpeur-web/semaine_1_jour_2/7_exercise.md)

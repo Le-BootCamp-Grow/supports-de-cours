@@ -38,4 +38,4 @@ Il est important de noter que toutes les propriétés CSS n'acceptent pas toutes
 
 En résumé, les unités CSS sont un moyen de spécifier la taille de certaines propriétés CSS, telles que la largeur, la hauteur et la taille de police d'un élément. Il existe plusieurs unités différentes qui peuvent être utilisées avec les propriétés CSS, notamment les pixels, les ems, les rems et les pourcentages.
 
-[Passez à la leçcon suivante >>]()
+[Passez à la leçcon suivante >>](https://github.com/Le-BootCamp-Grow/supports-de-cours/blob/main/notes-de-cours/niveau-d-entree/developpeur-web/semaine_1_jour_2/5_selecteur_css.md)

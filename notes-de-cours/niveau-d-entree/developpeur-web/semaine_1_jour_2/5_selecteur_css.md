@@ -44,4 +44,4 @@ p.ma-classe {
 
 Ce ne sont là que quelques exemples des types de sélecteurs CSS que vous pouvez utiliser pour appliquer des styles aux éléments d'une page Web. Il existe de nombreux autres sélecteurs que vous apprendrez à connaître au cours de ce camp d'entraînement.
 
-[Passez à la leçcon suivante >>]()
+[Passez à la leçcon suivante >>](https://github.com/Le-BootCamp-Grow/supports-de-cours/blob/main/notes-de-cours/niveau-d-entree/developpeur-web/semaine_1_jour_2/6_pratique.md)
