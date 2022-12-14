@@ -32,7 +32,7 @@ p {
 > ```
 > <a href="https://ecolegrow.tech">Cliquez ici</a>
 > ```
->In this example, the href attribute is the attribute name, and https://www.example.com is the attribute value. When the HTML document is rendered, the value of the href attribute will be used to determine where the link should point to.
+>Dans cet exemple, l'attribut href est le nom de l'attribut, et https://ecolegrow.tech est la valeur de l'attribut. Lors du rendu du document HTML, la valeur de l'attribut href sera utilisée pour déterminer l'endroit où le lien doit pointer.
 
 Vous pouvez également combiner plusieurs sélecteurs pour créer des règles plus spécifiques d'application des styles. Par exemple, vous pouvez combiner un sélecteur d'élément et un sélecteur de classe pour appliquer des styles uniquement à certains éléments ayant une classe particulière.
 
