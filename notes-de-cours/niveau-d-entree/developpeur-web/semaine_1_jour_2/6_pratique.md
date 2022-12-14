@@ -2,7 +2,7 @@
 
 Maintenant, mettons tout cela ensemble et essayons de créer quelque chose de cool et d'amusant !
 
-![CSS selector class style declaration](exercise0102_1.png)
+![CSS selector class style declaration](practique_0102.png)
 
 ```
 <!DOCTYPE html>
