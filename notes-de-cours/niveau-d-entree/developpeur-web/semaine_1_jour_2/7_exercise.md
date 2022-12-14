@@ -14,31 +14,31 @@ Dans le fichier HTML, ajoutez la structure HTML de base suivante :
 
 Ajoutez un lien vers une feuille de style externe dans la section `<head>` du fichier HTML. Cette feuille de style sera utilisée pour appliquer des styles CSS aux éléments de la page.
 
-![HTML CSS stylesheet link declaration class](exercise0102_2.png)
+![HTML CSS stylesheet link declaration class](exercise_0102_2.png)
 
 Créez un nouveau fichier CSS et enregistrez-le sous le nom de "styles.css".
 
 Dans le fichier CSS, ajoutez une règle pour styliser l'élément `<h1>`. Par exemple, vous pouvez modifier la taille de la police, son poids et sa couleur.
 
-![HTML CSS stylesheet declaration class](exercise0102_3.png)
+![HTML CSS stylesheet declaration class](exercise_0102_3.png)
 
 Dans le fichier CSS, ajoutez une règle pour styliser l'élément `<p>`. Par exemple, vous pouvez modifier la taille de la police, la famille de polices et l'alignement du texte.
 
-![HTML CSS stylesheet declaration class](exercise0102_4.png)
+![HTML CSS stylesheet declaration class](exercise_0102_4.png)
 
 Enregistrez les fichiers HTML et CSS, puis ouvrez le fichier HTML dans un navigateur Web pour afficher le site Web. Vous devriez voir les styles que vous avez appliqués aux éléments `<h1>` et `<p>`.
 
 Dans le fichier CSS, ajoutez une nouvelle règle pour styliser l'élément `<body>`. Par exemple, vous pouvez modifier la couleur d'arrière-plan et la famille de caractères.
 
-.![HTML CSS stylesheet declaration class](exercise0102_5.png)
+.![HTML CSS stylesheet declaration class](exercise_0102_5.png)
 
 Dans le fichier CSS, ajoutez une nouvelle classe appelée "point-fort" qui peut être appliquée à n'importe quel élément. Cette classe doit modifier la couleur d'arrière-plan et le poids de la police de l'élément.
 
-![HTML CSS project stylesheet declaration class](exercise0102_6.png)
+![HTML CSS project stylesheet declaration class](exercise_0102_6.png)
 
 Dans le fichier HTML, ajoutez la classe "point-fort" à l'élément `<p>`. Cela permettra d'appliquer les styles de la classe "point-fort" à l'élément `<p>`.
 
-![HTML CSS stylesheet link declaration class](exercise0102_7.png)
+![HTML CSS stylesheet link declaration class](exercise_0102_7.png)
 
 Enregistrez les fichiers HTML et CSS, puis ouvrez le fichier HTML dans un navigateur Web pour afficher le site Web. Vous devriez voir les styles de classe "point-fort" appliqués à l'élément `<p>`.
 
