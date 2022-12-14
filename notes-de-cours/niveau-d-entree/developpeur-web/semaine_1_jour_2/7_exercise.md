@@ -46,4 +46,4 @@ Enregistrez les fichiers HTML et CSS, puis ouvrez le fichier HTML dans un naviga
 > Laissez libre cours à votre créativité ! Et amusez-vous bien !
 
 
-[Suivant : Contrôle ! >>]()
+[Suivant : Contrôle ! >>](https://github.com/Le-BootCamp-Grow/supports-de-cours/blob/main/notes-de-cours/niveau-d-entree/developpeur-web/semaine_1_jour_2/8_quiz.md)
