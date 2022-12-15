@@ -4,4 +4,4 @@ Dans cette leçon, nous avons appris à connaître les balises HTML de base et �
 
 Dans les leçons ultérieures, nous poursuivrons notre apprentissage du HTML5 et explorerons des sujets plus avancés, tels que les éléments sémantiques, les éléments multimédias et les contrôles de formulaires.
 
-[Suivante : On s'entraîne >>](https://github.com/Le-BootCamp-Grow/supports-de-cours/blob/115c68bc35931320d2a8196a9f8eb205e6ddf783/notes-de-cours/niveau-d-entree/developpeur-web/semaine_1_jour_1/pratique.md)
+[Suivante : On s'entraîne >>](https://github.com/Le-BootCamp-Grow/supports-de-cours/blob/main/notes-de-cours/niveau-d-entree/developpeur-web/semaine_1_jour_1/pratique.md)

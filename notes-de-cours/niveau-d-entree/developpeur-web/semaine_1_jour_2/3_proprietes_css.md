@@ -88,7 +88,7 @@ Les valeurs hexadécimales sont des codes à six chiffres qui représentent les 
 
 ```
 p {
-    couleur: #FF4F4F;
+    color: #FF4F4F;
 }
 ```
 

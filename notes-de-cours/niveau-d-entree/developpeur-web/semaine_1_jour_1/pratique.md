@@ -59,4 +59,4 @@ Maintenant, mettons tout ensemble, c'est-à-dire tout ce que nous avons appris j
 </html>
 ```
 
-[Suivant : Exercez vous ! >>](https://github.com/Le-BootCamp-Grow/supports-de-cours/blob/0dcf63998804a4bf92f61badd7a968c555741793/notes-de-cours/niveau-d-entree/developpeur-web/semaine_1_jour_1/exercise.md)
+[Suivant : Exercez vous ! >>](https://github.com/Le-BootCamp-Grow/supports-de-cours/blob/main/notes-de-cours/niveau-d-entree/developpeur-web/semaine_1_jour_1/exercise.md)
