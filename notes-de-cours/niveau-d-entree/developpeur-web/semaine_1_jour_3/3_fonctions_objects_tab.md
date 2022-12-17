@@ -65,4 +65,4 @@ console.log(nombres[nombres.length - 1]); // Output: 9
 En travaillant avec des fonctions, des objets et des tableaux, vous pouvez écrire du code JavaScript plus puissant et plus expressif. Essayez de jouer avec ces concepts par vous-même pour voir leur puissance en action.
 
 
-[Passez à la section suivante >>]()
+[Passez à la section suivante >>](https://github.com/Le-BootCamp-Grow/supports-de-cours/blob/main/notes-de-cours/niveau-d-entree/developpeur-web/semaine_1_jour_3/4_javascript_dom.md)

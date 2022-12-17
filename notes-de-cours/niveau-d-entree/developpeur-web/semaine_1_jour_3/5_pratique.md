@@ -56,4 +56,4 @@ prompt.value = '';
 
 Essayez d'ajouter plusieurs tâches à votre liste de tâches et voyez comment la liste se met à jour sur la page Web.
 
-[Suivant : Exercez vous ! >>]()
+[Suivant : Exercez vous ! >>](https://github.com/Le-BootCamp-Grow/supports-de-cours/blob/main/notes-de-cours/niveau-d-entree/developpeur-web/semaine_1_jour_3/6_exercise.md)

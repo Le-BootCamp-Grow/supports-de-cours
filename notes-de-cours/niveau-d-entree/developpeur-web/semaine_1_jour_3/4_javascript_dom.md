@@ -102,4 +102,4 @@ Ainsi, l'élément `<div>` que nous avons créé précédemment sera positionné
 
 Dans cette leçon, nous avons appris à utiliser JavaScript pour manipuler le DOM HTML en ajoutant, supprimant et modifiant des éléments et leurs attributs. Ces techniques sont essentielles pour créer des pages et des applications Web dynamiques et interactives.
 
-[Passez à la section suivante >>]()
+[Passez à la section suivante >>](https://github.com/Le-BootCamp-Grow/supports-de-cours/blob/main/notes-de-cours/niveau-d-entree/developpeur-web/semaine_1_jour_3/5_pratique.md)

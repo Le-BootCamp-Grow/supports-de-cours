@@ -100,4 +100,4 @@ for (var i = 0; i < 10; i++) {
 }
 ```
 
-[Passez à la section suivante >>]()
+[Passez à la section suivante >>](https://github.com/Le-BootCamp-Grow/supports-de-cours/blob/main/notes-de-cours/niveau-d-entree/developpeur-web/semaine_1_jour_3/3_fonctions_objects_tab.md)
