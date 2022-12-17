@@ -16,7 +16,7 @@ Exemple :
 
 Prenons un exemple simple de formulaire de connexion qui utilise JavaScript pour valider la saisie de l'utilisateur. Le code ci-dessous montre comment nous pouvons utiliser JavaScript pour vérifier si l'utilisateur a saisi une adresse électronique et un mot de passe valides. Si l'un de ces champs est vide ou si l'adresse électronique n'est pas au bon format, le code affiche un message d'erreur et empêche l'utilisateur de se connecter.
 
-[image here](https://github.com/Le-BootCamp-Grow/supports-de-cours/blob/main/notes-de-cours/niveau-d-entree/developpeur-web/semaine_1_jour_3/0103_sample_js.png)
+![image here](https://github.com/Le-BootCamp-Grow/supports-de-cours/blob/main/notes-de-cours/niveau-d-entree/developpeur-web/semaine_1_jour_3/0103_sample_js.png)
 
 Dans ce code, nous utilisons JavaScript pour accéder aux valeurs des champs email et mot de passe, pour vérifier s'ils sont vides et pour valider l'adresse email à l'aide d'une expression régulière. Ce script simple illustre la façon dont JavaScript peut être utilisé pour améliorer l'expérience de l'utilisateur en fournissant un retour d'information en temps réel et en empêchant les entrées non valides.
 
