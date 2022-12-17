@@ -5,7 +5,7 @@
 
 ## Semaine 1 : Introduction au développement Web
 
-## Jour 2 : Introduction to JavaScript and Basic Syntax
+## Jour 2 : Introduction à JavaScript et à la syntaxe de base
 
 ![JavaScript syntax variables HTML DOM 'data types'](https://github.com/Le-BootCamp-Grow/supports-de-cours/blob/main/notes-de-cours/niveau-d-entree/developpeur-web/semaine_1_jour_3/0103_sample_js.png)
 
