@@ -20,4 +20,4 @@ Prenons un exemple simple de formulaire de connexion qui utilise JavaScript pour
 
 Dans ce code, nous utilisons JavaScript pour accéder aux valeurs des champs email et mot de passe, pour vérifier s'ils sont vides et pour valider l'adresse email à l'aide d'une expression régulière. Ce script simple illustre la façon dont JavaScript peut être utilisé pour améliorer l'expérience de l'utilisateur en fournissant un retour d'information en temps réel et en empêchant les entrées non valides.
 
-[Passez à la section suivante >>]()
+[Passez à la section suivante >>](https://github.com/Le-BootCamp-Grow/supports-de-cours/blob/main/notes-de-cours/niveau-d-entree/developpeur-web/semaine_1_jour_3/2_javascript_syntax_base.md)

@@ -32,4 +32,4 @@ Dans cette leçon, vous apprendrez les bases de JavaScript, un langage de progra
 
 Amusez-vous bien en le parcourant !
 
-[Commençons !]()
+[Commençons !](https://github.com/Le-BootCamp-Grow/supports-de-cours/blob/main/notes-de-cours/niveau-d-entree/developpeur-web/semaine_1_jour_3/1_introduction.md)
