@@ -54,4 +54,4 @@ En général, il est recommandé d'utiliser des feuilles de style externes pour 
 
 Nous espérons que ces notions de bases vous seront utiles et vous donneront un bon aperçu de la manière d'appliquer des styles CSS aux éléments HTML
 
-[Passez à la leçcon suivante >>](https://github.com/Le-BootCamp-Grow/supports-de-cours/blob/main/notes-de-cours/niveau-d-entree/developpeur-web/semaine_1_jour_2/3_proprietes_css.md)
+[Passez à la leçon suivante >>](https://github.com/Le-BootCamp-Grow/supports-de-cours/blob/main/notes-de-cours/niveau-d-entree/developpeur-web/semaine_1_jour_2/3_proprietes_css.md)

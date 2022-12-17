@@ -27,6 +27,6 @@ Les règles CSS peuvent être appliquées à une page Web selon trois méthodes 
 
 Il est en général recommandé d'utiliser des feuilles de style externes pour les projets plus importants, car elles permettent une meilleure organisation et une plus grande facilité de maintenance des styles.
 
-C'est tout pour les concepts de base de CSS. Dans la prochaine leçcon, nous aborderons les différentes façons d'appliquer des styles aux éléments d'une page Web.
+C'est tout pour les concepts de base de CSS. Dans la prochaine leçon, nous aborderons les différentes façons d'appliquer des styles aux éléments d'une page Web.
 
-[Passez à la leçcon suivante >>](https://github.com/Le-BootCamp-Grow/supports-de-cours/blob/main/notes-de-cours/niveau-d-entree/developpeur-web/semaine_1_jour_2/2_styles_css.md)
+[Passez à la leçon suivante >>](https://github.com/Le-BootCamp-Grow/supports-de-cours/blob/main/notes-de-cours/niveau-d-entree/developpeur-web/semaine_1_jour_2/2_styles_css.md)
