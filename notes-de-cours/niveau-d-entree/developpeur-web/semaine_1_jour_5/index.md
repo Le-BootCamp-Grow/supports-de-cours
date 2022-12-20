@@ -7,9 +7,9 @@
 
 ## Jour 2 : Introduction à GitHub et au contrôle de version
 
-![Git GitHub 'Git CLI' 'Version control'](https://github.com/Le-BootCamp-Grow/supports-de-cours/blob/main/notes-de-cours/niveau-d-entree/developpeur-web/semaine_1_jour_5/luke-chesser-LG8ToawE8WQ-unsplash.jpg)
+![Git GitHub 'Git CLI' 'Version control'](https://github.com/Le-BootCamp-Grow/supports-de-cours/blob/main/notes-de-cours/niveau-d-entree/developpeur-web/semaine_1_jour_5/0105_github_home.png)
 
-*Photo de [Luke Chesser](https://unsplash.com/@lukechesser?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) sur [Unsplash](https://unsplash.com/fr/s/photos/git?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)*
+Photo de [GitHub](https://github.com/)
   
 
 Bienvenue au cinquième jour du cours Introduction au développement Web ! Aujourd'hui, nous allons couvrir les bases de GitHub et du contrôle de version.
@@ -34,4 +34,4 @@ Je suis impatient de vous aider à démarrer avec Git et GitHub ! C'est parti.
 
 Amusez-vous bien en le parcourant !
 
-[Commençons !]()
+[Commençons !](https://github.com/Le-BootCamp-Grow/supports-de-cours/blob/main/notes-de-cours/niveau-d-entree/developpeur-web/semaine_1_jour_5/1_importance.md)
