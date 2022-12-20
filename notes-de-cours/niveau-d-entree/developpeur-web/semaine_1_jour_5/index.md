@@ -8,6 +8,7 @@
 ## Jour 2 : Introduction à GitHub et au contrôle de version
 
 ![Git GitHub 'Git CLI' 'Version control'](https://github.com/Le-BootCamp-Grow/supports-de-cours/blob/main/notes-de-cours/niveau-d-entree/developpeur-web/semaine_1_jour_5/luke-chesser-LG8ToawE8WQ-unsplash.jpg)
+
 Photo de [Luke Chesser](https://unsplash.com/@lukechesser?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) sur [Unsplash](https://unsplash.com/fr/s/photos/git?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
   
 
