@@ -2,8 +2,6 @@
 
 Afin d'utiliser GitHub, vous devez créer un compte gratuit. Voici comment vous pouvez créer un compte GitHub :
 
-[image here ...]()
-
 1. Allez sur https://github.com/.
 2. Cliquez sur le bouton "Sign up" dans le coin supérieur droit.
 3. Suivez les instructions pour créer votre compte. Vous devrez fournir votre adresse électronique, un nom d'utilisateur et un mot de passe.
@@ -11,7 +9,7 @@ Afin d'utiliser GitHub, vous devez créer un compte gratuit. Voici comment vous 
 
 Maintenant que vous avez un compte GitHub, vous êtes prêt à créer votre premier répertoire. Un dépôt, appelé << repository >>, est un endroit où vous pouvez stocker votre code et suivre les modifications à l'aide de Git. Voici comment vous pouvez créer un dépôt :
 
-[image here ...]()
+![Git GitHub New Repository](https://github.com/Le-BootCamp-Grow/supports-de-cours/blob/main/notes-de-cours/niveau-d-entree/developpeur-web/semaine_1_jour_5/0105_github_new_repo.png)
 
 1. Connectez-vous à votre compte GitHub.
 2. Cliquez sur l'icône "+" dans le coin supérieur droit et sélectionnez "New Repository" dans le menu déroulant.
@@ -20,3 +18,5 @@ Maintenant que vous avez un compte GitHub, vous êtes prêt à créer votre prem
 5. Cliquez sur le bouton "Create repository" en bas de la page.
 
 Félicitations, vous avez créé votre premier dépôt ! Vous pouvez maintenant utiliser les commandes Git pour suivre les modifications de votre code et collaborer avec d'autres personnes sur des projets.
+
+[Passez à la section suivante](https://github.com/Le-BootCamp-Grow/supports-de-cours/blob/main/notes-de-cours/niveau-d-entree/developpeur-web/semaine_1_jour_5/3_commandes_git.md)
