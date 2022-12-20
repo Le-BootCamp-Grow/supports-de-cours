@@ -9,6 +9,8 @@
 
 ### Projet : Page Web de profil personnel
 
+![Simple HTML CSS JavaScript web development](https://github.com/Le-BootCamp-Grow/supports-de-cours/blob/main/notes-de-cours/niveau-d-entree/developpeur-web/semaine_1_jour_4/exercise_0104.png)
+
 Dans le cadre de ce projet, vous allez créer une page Web de profil personnel simple en utilisant HTML et CSS. Nous recommandons que vous utlisez un peu de JavaScript. Le but de la page de profil est de vous présenter aux autres et de fournir quelques informations de base sur vous.
 
 Voici les étapes que vous pouvez suivre pour créer votre page de profil :
