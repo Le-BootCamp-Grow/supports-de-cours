@@ -11,3 +11,5 @@ Le contrôle de version est un outil essentiel pour les développeurs Web. Il vo
 - Expérimentation : Le contrôle de version vous permet d'expérimenter avec votre code sans craindre de perdre votre travail. Vous pouvez essayer de nouvelles idées et voir comment elles fonctionnent sans risquer d'endommager définitivement votre code. Si vous n'aimez pas les modifications que vous avez apportées, vous pouvez facilement revenir à une version antérieure.
 
 Globalement, le contrôle de version est un outil essentiel pour les développeurs Web. Il vous aide à suivre les modifications, à collaborer avec d'autres personnes et à protéger votre code. Il peut vous faire gagner du temps, vous éviter des frustrations et vous aider à produire un code de meilleure qualité.
+
+[Passez à la section suivante](https://github.com/Le-BootCamp-Grow/supports-de-cours/blob/main/notes-de-cours/niveau-d-entree/developpeur-web/semaine_1_jour_5/2_configuration.md)
