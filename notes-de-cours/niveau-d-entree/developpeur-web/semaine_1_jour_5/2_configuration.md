@@ -17,6 +17,8 @@ Maintenant que vous avez un compte GitHub, vous êtes prêt à créer votre prem
 4. Choisissez si vous voulez que votre dépôt soit public ou privé. Les dépôts publics sont visibles par tous, tandis que les référentiels privés ne sont visibles que par vous et les personnes que vous invitez à collaborer.
 5. Cliquez sur le bouton "Create repository" en bas de la page.
 
+![Git GitHub Create Repository](https://github.com/Le-BootCamp-Grow/supports-de-cours/blob/main/notes-de-cours/niveau-d-entree/developpeur-web/semaine_1_jour_5/0105_new_repo_menu.png)
+
 Félicitations, vous avez créé votre premier dépôt ! Vous pouvez maintenant utiliser les commandes Git pour suivre les modifications de votre code et collaborer avec d'autres personnes sur des projets.
 
 [Passez à la section suivante](https://github.com/Le-BootCamp-Grow/supports-de-cours/blob/main/notes-de-cours/niveau-d-entree/developpeur-web/semaine_1_jour_5/3_commandes_git.md)
