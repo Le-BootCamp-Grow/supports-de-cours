@@ -83,4 +83,4 @@ Voici un exemple d'utilisation de l'attribut `cite` avec l'élément `<q>` :
 
 > Notez que l'attribut `cite` n'est pas affiché à l'utilisateur. Il est destiné à fournir des informations supplémentaires sur la citation aux navigateurs, moteurs de recherche et autres logiciels.
 
-[Passez à la section suivante >>]()
+[Passez à la section suivante >>](https://github.com/Le-BootCamp-Grow/supports-de-cours/blob/main/notes-de-cours/niveau-d-entree/developpeur-web/semaine_2_jour_1/3_commentaires.md)

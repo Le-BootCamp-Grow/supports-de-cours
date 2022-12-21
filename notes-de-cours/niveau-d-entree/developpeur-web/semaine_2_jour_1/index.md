@@ -33,10 +33,9 @@ Voici un aperçu du cours pour cette leçon :
 - Meilleures pratiques pour l'utilisation des commentaires dans votre code
 
 4.  Activité/Projet : Créer une page Web simple à l'aide d'éléments de texte et de formatage HTML
-- Utilisez les éléments HTML et les techniques de formatage abordés dans cette leçon pour créer une page Web simple comprenant des titres, des paragraphes, des liens, des listes et des images.
 
-NB : Cette leçon est subdivisée en plusieurs unités. Nous avons voulu que vous puissiez couvrir et appréhender la leçon par bribes, une étape après l'autre. Nous savons que l'apprentissage du code peut être un peu intimidant. C'est pourquoi nous avons décidé de tout décomposer pour vous.
+> NB : Cette leçon est subdivisée en plusieurs unités. Nous avons voulu que vous puissiez couvrir et appréhender la leçon par bribes, une étape après l'autre. Nous savons que l'apprentissage du code peut être un peu intimidant. C'est pourquoi nous avons décidé de tout décomposer pour vous.
 
 Amusez-vous bien en le parcourant !
 
-[Commençons !]()
+[Commençons !](https://github.com/Le-BootCamp-Grow/supports-de-cours/blob/main/notes-de-cours/niveau-d-entree/developpeur-web/semaine_2_jour_1/1_elements_de_texte.md)

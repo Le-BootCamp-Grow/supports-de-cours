@@ -27,4 +27,4 @@ Voici quelques bonnes pratiques pour l'utilisation des commentaires HTML :
 - Évitez d'utiliser les commentaires comme un moyen de "commenter" le code que vous n'utilisez pas. Il est préférable d'utiliser un système de contrôle de version comme Git pour suivre les modifications apportées à votre code.
 - Utilisez les commentaires pour documenter toute modification ou mise à jour de votre code. Cela peut aider les autres développeurs à comprendre le raisonnement derrière les changements et faciliter le suivi et le débogage des problèmes.
 
-[Exercez vous >>]()
+[Exercez vous >>](https://github.com/Le-BootCamp-Grow/supports-de-cours/blob/main/notes-de-cours/niveau-d-entree/developpeur-web/semaine_2_jour_1/4_exercice.md)

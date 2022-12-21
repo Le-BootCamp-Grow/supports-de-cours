@@ -94,4 +94,4 @@ Ceci va créer une liste non ordonnée avec les éléments suivants :
 - Objet 2
 - Objet 3
 
-[Passez à la section suivante >>]()
+[Passez à la section suivante >>](https://github.com/Le-BootCamp-Grow/supports-de-cours/blob/main/notes-de-cours/niveau-d-entree/developpeur-web/semaine_2_jour_1/2_mise_en_forme.md)
