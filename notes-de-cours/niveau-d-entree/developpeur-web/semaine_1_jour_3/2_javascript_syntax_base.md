@@ -14,17 +14,17 @@
 
 - Les variables:
 
-```
-// declaring a variable
+```Javascript
+// déclarer un variable
 var x = 5;
 
-// updating the value of a variable
+// mettre à jour la valeur d'une variable
 x = 10;
 ```
 
 - Les types de données:
 
-```
+```Javascript
 // nombres
 var x = 5;
 let y = 10.5;
@@ -47,7 +47,7 @@ let person = {
 
 - Les operateurs:
 
-```
+```Javascript
 // opérateurs arithmétiques
 let somme = x + y;   // 15
 let diff = x - y;  // 5
@@ -69,7 +69,7 @@ var z = !(5 == 5); // false
 
 - Lestructures de contrôle:
 
-```
+```Javascript
 // l'instruction if
 if (x > 10) {
   // fais quelque chose

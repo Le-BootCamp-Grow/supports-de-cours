@@ -6,7 +6,7 @@ Disons que nous voulons ajouter un formulaire simple à notre page Web qui deman
 
 Voici le code pour le bouton et l'invite :
 
-```
+```HTML
 <button onclick="prompt('Veuillez entrer votre nom')">Cliquez ici pour entrer votre nom</button>
 ```
 
@@ -18,7 +18,7 @@ Supposons maintenant que nous voulions afficher le nom de l'utilisateur sur la p
 
 Voici le code permettant de récupérer la saisie de l'utilisateur et de l'insérer dans le document HTML :
 
-```
+```HTML
 <button onclick="var nomUtilisateur = prompt('Please enter your name'); document.getElementById('nom-affiche').innerHTML = nomUtilisateur">Cliquez ici pour entrer votre nom</button>
 
 <p id="nom-affiche"></p>
@@ -32,21 +32,21 @@ Pour cet exercice, nous allons créer une simple liste de tâches à faire. L'ut
 
 Tout d'abord, créons le HTML de la liste de tâches :
 
-```
+```HTML
 <h1>Ma liste de choses à faire</h1>
 <ul id="liste-de-taches"></ul>
 ```
 
 Ensuite, nous ajouterons un bouton qui déclenchera l'invitation à l'utilisateur à saisir ses tâches :
 
-```
-<button onclick="addTask()">Add a task</button>
+```HTML
+<button onclick="ajouteTache()">Add a task</button>
 ```
 
 Enfin, nous créerons la fonction JavaScript qui saisira l'entrée de l'utilisateur, l'ajoutera à la liste et effacera l'invite pour que l'utilisateur puisse ajouter d'autres tâches :
 
-```
-function ajouteTaxhe() {
+```Javascript
+function ajouteTache() {
 var tache = prompt('Entrer une tache');
 var tacheaFaire = document.getElementById('liste-de-taches');
 tacheaFaire.innerHTML += '<li>' + tache + '</li>';

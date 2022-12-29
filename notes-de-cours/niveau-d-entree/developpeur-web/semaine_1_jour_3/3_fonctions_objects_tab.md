@@ -6,7 +6,7 @@
     - À l'intérieur des parenthèses, nous pouvons spécifier des paramètres, qui sont des valeurs que la fonction peut accepter en entrée.
     - Le code qui compose la fonction est placé à l'intérieur d'un ensemble d'accolades {}.
 
-```
+```Javascript
 // Définissez une fonction qui prend deux nombres comme paramètres et renvoie leur somme
 function somme(num1, num2) {
   return num1 + num2;
@@ -23,7 +23,7 @@ console.log(resultat); // Output: 5
     - Chaque propriété est une paire clé-valeur, où la clé est une chaîne qui identifie la propriété, et la valeur peut être n'importe quel type de données, y compris un autre objet.
     - On peut accéder aux propriétés d'un objet en employant le point (par exemple, `object.property`) ou les crochets (par exemple, `object['property']`).
 
-```
+```Javascript
 // Définir un objet avec des propriétés pour le nom et l'âge d'une personne.
 
 let personne = {
@@ -46,7 +46,7 @@ console.log(personne['age']); // Output: 30
     - Les valeurs d'un tableau peuvent être de n'importe quel type de données, y compris d'autres tableaux.
     - Nous pouvons accéder aux éléments d'un tableau à l'aide de leur index basé sur zéro, qui correspond à la position de l'élément dans le tableau.
 
-```
+```Javascript
 // Définir un tableau de nombres
 let nombres = [1, 2, 3, 4, 5];
 

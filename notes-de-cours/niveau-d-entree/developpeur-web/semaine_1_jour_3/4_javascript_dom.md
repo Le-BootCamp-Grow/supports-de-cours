@@ -8,7 +8,7 @@ Avant de commencer, il est important de comprendre comment le DOM HTML est struc
 
 Prenons un exemple simple. Considérons la page HTML suivante :
 
-```
+```HTML
 <html>
 <head>
     <title>Leçon de JavaScript</title>
@@ -37,19 +37,19 @@ Chaque élément de l'arbre est appelé un **nœud**, et chaque nœud possède d
 
 Pour accéder à un élément dans le DOM HTML, nous pouvons utiliser la méthode `document.getElementById()`. Cette méthode prend un argument de type chaîne, qui est l'ID de l'élément auquel nous voulons accéder. Par exemple, si nous avons le HTML suivant :
 
-```
+```HTML
 <p id="section-dom">Cette section aborde le sujet DOM</p>
 ```
 
 Nous pouvons accéder à cet élément de paragraphe dans le DOM HTML en utilisant le code JavaScript suivant :
 
-```
+```Javascript
 var sectionDom = document.getElementById("section-dom");
 ```
 
 Une fois que nous avons accès à l'élément, nous pouvons utiliser ses propriétés et ses méthodes pour le modifier. Par exemple, nous pouvons utiliser la propriété `innerHTML` pour modifier le contenu de l'élément :
 
-```
+```Javascript
 sectionDom.innerHTML = "This section is about the DOM.";
 ```
 
@@ -59,7 +59,7 @@ En plus de la méthode `document.getElementById()`, il existe d'autres méthodes
 
 En plus de modifier le contenu d'un élément, nous pouvons également utiliser JavaScript pour ajouter, supprimer et modifier les attributs d'un élément. Par exemple, nous pouvons utiliser la méthode `setAttribute()` pour ajouter ou modifier un attribut :
 
-```
+```Javascript
 sectionDom.setAttribute("class", "nouvelle-classe");
 ```
 
@@ -67,7 +67,7 @@ Cela ajoutera un attribut class à l'élément `<p>` avec la valeur "new-class".
 
 Nous pouvons également utiliser la méthode `removeAttribute()` pour supprimer un attribut d'un élément :
 
-```
+```Javascript
 sectionDom.removeAttribute("class");
 ```
 
@@ -75,7 +75,7 @@ Cela supprimerait l'attribut class de l'élément `<p>`.
 
 Outre la modification des attributs, nous pouvons également utiliser JavaScript pour ajouter, supprimer et déplacer des éléments dans l'arbre DOM HTML. Par exemple, nous pouvons utiliser les méthodes `createElement()` et `appendChild()` pour ajouter un nouvel élément à la page :
 
-```
+```Javascript
 var newElement = document.createElement("div");
 newElement.innerHTML = "Ajoutons un élément div";
 
@@ -86,7 +86,7 @@ Ce code créerait un nouvel élément `<div>` avec le contenu "Ajoutons un élé
 
 De même, nous pouvons utiliser la méthode `removeChild()` pour supprimer un élément de l'arbre DOM HTML :
 
-```
+```Javascript
 document.body.removeChild(newElement);
 ```
 
@@ -94,7 +94,7 @@ Cela supprimerait l'élément `<div>` que nous avons ajouté précédemment de l
 
 Enfin, nous pouvons utiliser la méthode `insertBefore()` pour déplacer un élément à une position différente dans l'arbre DOM HTML :
 
-```
+```Javascript
 document.body.insertBefore(newElement, sectionDom);
 ```
 
