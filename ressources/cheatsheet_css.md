@@ -161,9 +161,9 @@ sélecteur {
 /* appliquer au container */
 sélecteur {
     display: flex;
-    flex-direction: row|column;
-    justify-content: flex-start|flex-end|center|space-between|space-around;
-    align-items: flex-start|flex-end|center|baseline|stretch;
+    flex-direction: row | column;
+    justify-content: flex-start | flex-end | center | space-between | space-around;
+    align-items: flex-start | flex-end |center | baseline | stretch;
 }
 
 
@@ -203,7 +203,7 @@ sélecteur {
     transition-duration: value;
 
     /* fonction de chronométrage */
-    transition-timing-function: ease|ease-in|ease-out|ease-in-out;
+    transition-timing-function: ease | ease-in | ease-out | ease-in-out;
 }
 ```
 
@@ -230,9 +230,9 @@ exemple {
     animation-timing-function: ease |ease-in |ease-out | ease-in-out;
     animation-delay: value;
     animation-iteration-count: value;
-    animation-direction: normal|reverse|alternate|alternate-reverse;
-    animation-fill-mode: none|forwards|backwards|both;
-    animation-play-state: running|paused;
+    animation-direction: normal | reverse | alternate | alternate-reverse;
+    animation-fill-mode: none | forwards | backwards | both;
+    animation-play-state: running | paused;
 }
 ```
 
