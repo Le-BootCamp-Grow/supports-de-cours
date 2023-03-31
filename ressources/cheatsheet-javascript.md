@@ -1,5 +1,5 @@
-# CSS/CSS3 Cheat sheet
-## Aide-mémoire CSS/CSS3
+# JavaScript Cheat sheet
+## JavaScript CSS/CSS3
 
 > This cheat sheet is made by Growcampus.
 > For JavaScript development from entry-level to advanced concepts.
