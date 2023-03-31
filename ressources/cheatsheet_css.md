@@ -97,8 +97,8 @@ sélecteur {
 
     /* background image : image en arrière-plan */
     background-image: url("chemin/vers/image.jpg");
-    background-repeat: repeat | no-repeat;                          /* arrière-plan unique ou répété */
-    background-position: left | top | center | bottom | right;      /* positionnement de l'arrière-plan */
+    background-repeat: repeat|no-repeat;                          /* arrière-plan unique ou répété */
+    background-position: left|top|center|bottom|right;      /* positionnement de l'arrière-plan */
 
     /* abrégé */
     background: value;
@@ -119,13 +119,13 @@ sélecteur {
     /* font : police */
     font-family: "Helvetica Neue", sans-serif;      /* police - famille */
     font-size: value;                               /* taille du texte */
-    font-weight: normal | bold;                       /* le poids du texte */
+    font-weight: normal|bold;                       /* le poids du texte */
 
     /* décoration texté */
-    text-decoration: none |underline |line-through;
+    text-decoration: none|underline|line-through;
 
     /* alignement du texte */
-    text-align: left |center |right;
+    text-align: left|center|right;
 }
 ```
 
@@ -161,14 +161,17 @@ sélecteur {
 /* appliquer au container */
 sélecteur {
     display: flex;
-    flex-direction: row | column;
-    justify-content: flex-start | flex-end | center | space-between | space-around;
-    align-items: flex-start | flex-end | center |baseline |stretch;
+    flex-direction: row|column;
+    justify-content: flex-start|flex-end|center|space-between|space-around;
+    align-items: flex-start|flex-end|center|baseline|stretch;
 }
 
 
 /* appliquer à l'élément enfant */
-flex: value;
+sélecteur {
+  flex: value;  
+}
+
 ```
 
 7.  Le Grid :
@@ -200,7 +203,7 @@ sélecteur {
     transition-duration: value;
 
     /* fonction de chronométrage */
-    transition-timing-function: ease |ease-in |ease-out |ease-in-out;
+    transition-timing-function: ease|ease-in|ease-out|ease-in-out;
 }
 ```
 
@@ -227,9 +230,9 @@ exemple {
     animation-timing-function: ease |ease-in |ease-out | ease-in-out;
     animation-delay: value;
     animation-iteration-count: value;
-    animation-direction: normal | reverse | alternate | alternate-reverse;
-    animation-fill-mode: none | forwards | backwards| both;
-    animation-play-state: running | paused;
+    animation-direction: normal|reverse|alternate|alternate-reverse;
+    animation-fill-mode: none|forwards|backwards|both;
+    animation-play-state: running|paused;
 }
 ```
 
