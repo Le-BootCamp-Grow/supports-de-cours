@@ -227,6 +227,7 @@ Créer une liste ordonnée (numérotée) :
   <source src="video.mp4" type="video/mp4">
   Votre navigateur ne prend pas en charge l'élément audio.
  </video>
+ ```
 
 17. Iframes :
 
