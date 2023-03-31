@@ -169,7 +169,12 @@ sélecteur {
 
 /* appliquer à l'élément enfant */
 sélecteur {
-  flex: value;  
+    flex: value;
+    order: value;
+    flex-grow: value;
+    flex-shrink: value;
+    flex-basis: value;
+    align-self: auto | flex-start | flex-end | center | baseline | stretch;
 }
 
 ```
@@ -189,6 +194,14 @@ sélecteur {
     grid-row-end: value;
     grid-column-start: value;
     grid-column-end: value;
+
+    /* alignement des éléments enfants */
+    justify-items: start | center | end;
+    align-items: start | center | end;
+
+    /* align content */
+    justify-content: start | center | end | space-around | space-between | space-evenly;
+    align-content: start | center | end | space-around | space-between | space-evenly;
 }
 ```
 
@@ -236,132 +249,152 @@ exemple {
 }
 ```
 
-10. Divisions - créer une division sur la page web :
+10. Media Queries :
 
-```HTML
-  <div>
-    <p>Voici une division.</p>
-  </div>
+Les media queries en CSS permettent de définir des styles différents en fonction des caractéristiques de l'appareil ou de l'écran sur lequel une page web est affichée. Cela permet aux développeurs de créer des mises en page et des designs adaptatifs qui s'ajustent automatiquement aux différentes tailles d'écran.
+
+Les media queries utilisent la propriété "media" en CSS pour définir les règles en fonction des caractéristiques de l'appareil. Les caractéristiques les plus courantes incluent la largeur de l'écran, l'orientation (portrait ou paysage) et la densité de pixels.
+
+Les règles définies dans une media query ne sont appliquées que si les caractéristiques spécifiées sont respectées. Par exemple, une règle peut être définie pour appliquer un style différent pour les écrans plus larges que 768 pixels.
+
+Les media queries sont essentielles pour créer des designs web adaptatifs et réactifs qui fonctionnent bien sur tous les appareils, qu'il s'agisse d'ordinateurs de bureau, de tablettes ou de téléphones portables.
+
+```CSS
+/* device width */
+@media only screen and (max-width: 768px) {
+  /* vos styles ici... */
+}
+
+/* device orientation */
+@media only screen and (orientation: landscape) {
+  /* vos styles ici... */
+}
+
+/* print */
+@media print {
+  /* vos styles ici... */
+}
+
+/* high resolution displays */
+@media only screen and (-webkit-min-device-pixel-ratio: 2),
+       only screen and (min--moz-device-pixel-ratio: 2),
+       only screen and (-o-min-device-pixel-ratio: 2/1),
+       only screen and (min-device-pixel-ratio: 2),
+       only screen and (min-resolution: 192dpi),
+       only screen and (min-resolution: 2dppx) {
+  /* vos styles ici... */
+}
 ```
 
-11. Créer un span :
+11. Pseudo-classes :
 
-```HTML
- <p>Voici comment utiliser un <span>span</span>.</p>
+Les pseudo-classes CSS sont des sélecteurs qui ciblent les éléments HTML dans un état particulier ou une relation avec un autre élément.
+
+Par exemple, la pseudo-classe ":hover" cible un élément lorsque le curseur de la souris est positionné dessus, la pseudo-classe ":active" cible un élément lorsqu'il est cliqué, et la pseudo-classe ":first-child" cible le premier enfant d'un élément parent.
+
+Les pseudo-classes sont utiles pour appliquer des styles spécifiques à des états ou des relations particulières, ce qui permet de créer des effets interactifs et de personnaliser la mise en page des éléments HTML.
+
+Il existe de nombreuses pseudo-classes CSS, y compris des pseudo-classes de lien (":link", ":visited", ":hover", ":active"), des pseudo-classes de contenu ("::before", "::after", "::first-letter", "::first-line"), des pseudo-classes de formulaire (":checked", ":focus", ":disabled", ":enabled"), et bien plus encore.
+
+Les développeurs peuvent utiliser les pseudo-classes CSS pour ajouter des styles interactifs et dynamiques à leur page web, ce qui peut améliorer l'expérience utilisateur et rendre le contenu plus attractif.
+
+```CSS
+/* états du lien */
+a:link { /* lien non visité */ }
+a:visited { /* lien visité */ }
+a:hover { /* survoler le lien avec la souris */ }
+a:active { /* lien sélectionné */ }
+
+/* États des formulaires */
+input:focus { /* est centré sur l'élément */ }
+input:required { /* champ est obligatoire */ }
+input:disabled { /* l'élément est désactivé */ }
+
+/* éléments enfants */
+parent > child { /* enfant direct */ }
+parent descendant { /* n'importe quel descendant */ }
+
+/* éléments pairs/impairs */
+tr:nth-child(odd) { /* ligne impaire (appliqué au tableau ici) */ }
+tr:nth-child(even) { /* ligne paire (appliqué au tableau ici) */ }
+
+/* premiers/derniers éléments */
+:first-child { /* premier élément */ }
+:last-child { /* dernier élément */ }
+
 ```
 
-12. Attributs :
+12. Préfixes des fabricants navigateurs :
 
-```HTML
- <img src="image.jpg" alt="Description de l'Image" width="200" height="200">
+```CSS
+/* Firefox */
+-moz-border-radius: value;
+
+/* Safari/Chrome */
+-webkit-border-radius: value;
+
+/* Opera */
+-o-border-radius: value;
+
+/* IE9+ */
+border-radius: value;
 ```
 
-13. Classes ;
+13. Variables CSS :
 
-```HTML
- <p class="intro">Voici une introduction.</p>
+```CSS
+/* define variable */
+:root {
+  --main-color: #ff0000;
+}
 
- <style>
-  .intro {
-    font-weight: bold;
-  }
-</style>
+/* usage de la variable */
+element {
+  color: var(--main-color);
+}
+
 ```
 
-14. IDs :
+Voici quelques concepts et unités CSS plus avancés pour votre antisèche CSS/CSS3 :
 
-```HTML
- <p id="para1">Voici un paragraphe.</p>
+14. Unités CSS :
 
- <script>
-  var para1 = document.getElementById("para1");
-  para1.style.color = "red";
-</script>
+**Unités fixes** :
+-   px : pixels (par rapport à la résolution de l'écran)
+-   in : pouces
+-   cm : centimètres
+-   mm : millimètres
+-   pt : points (1/72 de pouce)
+-   pc : picas (1/6 de pouce)
+
+**Unités relatives** :
+-   em : par rapport à la taille de la police de l'élément (par exemple, 1em = 100% de la taille de la police)
+-   rem : par rapport à la taille de la police de l'élément racine
+-   vw : par rapport à 1 % de la largeur de la fenêtre de visualisation
+-   vh : par rapport à 1 % de la hauteur de l'écran
+-   vmin : 1% de la plus petite dimension de la fenêtre d'affichage
+-   vmax : par rapport à 1 % de la plus grande dimension de la fenêtre d'affichage
+
+15. Les Gradients en CSS :
+
+```CSS
+
+sélécteur {
+    /* linear gradient : gradient linéaire */
+    background: linear-gradient(direction, color-stop1, color-stop2, ...);
+    /* radial gradient : gradient en cercle*/
+    background: radial-gradient(shape, size, position, color-stop1, color-stop2, ...);
+}
 ```
 
-15. Le HTML Sémantique :
+16. Ombres en CSS :
 
-```HTML
- <header>
-  <h1>Titre de Page</h1>
-  
-  <nav>
-    <ul>
-      <li><a href="#">Acceuil</a></li>
-      <li><a href="#">À Propos</a></li>
-      <li><a href="#">Contact</a></li>
-    </ul>
-  </nav>
- </header>
+```CSS
+sélecteur {
+   /* box shadow */
+    box-shadow: h-shadow v-shadow blur spread color inset;
 
- <main>
-  <article>
-    <h2>Titre de l'article </h2>
-    <p>Voici un article.</p>
-  </article>
-
-  <aside>
-    <h3>Titre Ici</h3>
-    <p>Voici une division Aside.</p>
-  </aside>
- </main>
-
- <footer>
-  <p>Copyright © 2023</p>
- </footer>
-```
-
-16. Audio et Vidéo :
-
-```HTML
- <audio controls>
-  <source src="audio.mp3" type="audio/mpeg">
-  Votre navigateur ne prend pas en charge l'élément audio.
- </audio>
- <video controls>
-  <source src="video.mp4" type="video/mp4">
-  Votre navigateur ne prend pas en charge l'élément audio.
- </video>
-
-17. Iframes :
-
-```HTML
- <iframe src="https://www.example.com"></iframe>
-```
-
-18. Utiliser les balises Meta :
-
-```HTML
- <meta name="description" content="Description de la Page">
-  <meta name="keywords" content="HTML, CSS, JavaScript">
- <meta name="author" content="John Doe">
- <meta name="viewport" content="width=device-width, initial-scale=1.0">
-```
-
-19. Des balises HTML sémantiques plus avancées :
-
-- `<section>` : représente une section d'un document ou d'une application
-- `<article>` : représente une composition autonome dans un document, tel qu'un billet de blog ou un article de presse
-- `<aside>` : représente le contenu qui est en relation indirecte avec le contenu qui l'entoure, tel qu'un encadré ou une boîte de rappel
-- `<figure>` : représente un contenu autonome, tel qu'une image, un diagramme ou un extrait de code, qui est référencé dans le contenu principal
-- `<figcaption>` : représente une légende ou une description pour un élément `<figure>`.
-
-20. Des balises `head` et `meta` sémantiques plus avancées :
-
-- `<base>` : spécifie l'URL de base pour tous les URL relatifs dans le document
-- `<link>` : spécifie un lien vers une ressource externe, telle qu'une feuille de style ou une icône
-- `<style>` : contient des règles CSS pour le document
-- `<script>` : contient du code JavaScript pour le document
-- `<noscript>` : contient le contenu à afficher lorsque JavaScript est désactivé
-- `<meta charset="UTF-8">`  : spécifie le codage des caractères du document
-- `<meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">` : spécifie que le document actuel doit être rendu en utilisant la dernière version disponible d'Internet Explorer et assure également la compatibilité avec Google Chrome Frame.
-- `<meta name="robots" content="index,follow">` : spécifie si les moteurs de recherche doivent indexer et suivre la page.
-
-21. Formulaires plus avancés:
-
-- `<fieldset>` : regroupe les éléments de formulaire apparentés et fournit une étiquette pour le groupe
-- `<legend>` : fournit une légende ou une description pour un élément `<fieldset>`.
-- `<label>` : fournit une étiquette pour un élément de formulaire
-- `<select>` : crée une liste déroulante d'options
-- `<option>` : spécifie une option dans un élément `<select>`.
-- `<textarea>` : crée un champ de saisie de texte sur plusieurs lignes
+    /* text shadow */
+    text-shadow: h-shadow v-shadow blur color; 
+}
+ ```
